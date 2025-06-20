@@ -1,41 +1,42 @@
 # realestate-management-system
-2. Real Estate Website (Backend)
+# Real Estate Website (Backend)
 Description:
 A PHP-based backend for a real estate listing website. This project provides admin and user portals to manage property listings, user registrations, and property searches.
 
-Features:
+# Features:
 
-Admin and User login systems
+* Admin and User login systems
 
-Post, update, and delete properties
+* Post, update, and delete properties
 
-Save & search listings
+* Save & search listings
 
-SQL database support
+* SQL database support
 
-Clean dashboard UI
+* Clean dashboard UI
 
-Tech Stack:
+# Tech Stack:
 
-PHP
+1.PHP
 
-MySQL
+2.MySQL
 
-HTML/CSS
+3.HTML/CSS
 
-Apache (XAMPP/LAMP)
+4.Apache (XAMPP/LAMP)
 
-How to Run:
 
-Import the home_db.sql into MySQL (phpMyAdmin).
+# How to Run:
 
-Place the project folder inside your local server directory (e.g., htdocs for XAMPP).
+Step 1:Import the home_db.sql into MySQL (phpMyAdmin).
 
-Start Apache and MySQL via XAMPP.
+Step 2:Place the project folder inside your local server directory (e.g., htdocs for XAMPP).
 
-Navigate to localhost/project/login.php to begin.
+Step 3:Start Apache and MySQL via XAMPP.
 
-Database File:
+Step 4:Navigate to localhost/project/login.php to begin.
+
+#      Database File:
 
 home_db.sql: Contains the database schema and dummy data.
 
